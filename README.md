@@ -18,9 +18,9 @@
 
 
 ### Glad to see you here!  
-I’m a full-stack developer👩‍💻 & AI enthusiast 😜. Being a full-stack allows me to not only develop client-facing apps and websites but also develop them with cutting-edge backend support✌️.
+I’m a full-stack developer👩‍💻 & AI enthusiast 😜. Being a full-stack developer allows me to create client-facing apps and websites as well as cutting-edge backend support✌️.
 
-🌴I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful🧱, distributed yet synchronized, and beautiful yet effective.   
+🌴I specialize in creating solid backends for your app or website that handle all of the heavy lifting. I enjoy creating systems that are both light and powerful🧱, distributed yet coordinated, and beautiful yet functional.   
   
 
 <br/>  
