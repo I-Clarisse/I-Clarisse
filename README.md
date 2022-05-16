@@ -29,7 +29,7 @@ I’m a full-stack developer👩‍💻 & AI enthusiast 😜. Being a full-stack
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on Hiric   
+- 🔭 I’m currently working on Myself 😎
   
 
 - 🌱 I'm currently learning mobile development  
