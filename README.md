@@ -42,6 +42,8 @@ I’m a full-stack developer👩‍💻 & AI enthusiast 😜. Being a full-stack
   
 - ⚡ Fun fact: Busy living my life🤞
 
+- 🏡 Loading......`House of IRA`
+
 </td><td valign="top" width="50%">
 
 <div align="center">
@@ -92,26 +94,4 @@ I’m a full-stack developer👩‍💻 & AI enthusiast 😜. Being a full-stack
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=I-Clarisse&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<img src="https://github-readme-stats.vercel.app/api?username=I-Clarisse
