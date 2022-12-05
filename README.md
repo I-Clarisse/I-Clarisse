@@ -20,7 +20,7 @@
 ### Glad to see you here!  
 I’m a full-stack developer👩‍💻 & AI enthusiast 😜. Being a full-stack developer allows me to create client-facing apps and websites as well as cutting-edge backend support✌️.
 
-🌴 I DO WHAT I DO BEST!
+🌴 DOIN' WHAT I DO BEST!
 
 <br/>  
 
