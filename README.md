@@ -20,8 +20,7 @@
 ### Glad to see you here!  
 I’m a full-stack developer👩‍💻 & AI enthusiast 😜. Being a full-stack developer allows me to create client-facing apps and websites as well as cutting-edge backend support✌️.
 
-🌴I specialize in creating solid backends for your app or website that handle all of the heavy lifting. I enjoy creating systems that are both light and powerful🧱, distributed yet coordinated, and beautiful yet functional.   
-  
+🌴 I DO WHAT I DO BEST!
 
 <br/>  
 
@@ -29,15 +28,18 @@ I’m a full-stack developer👩‍💻 & AI enthusiast 😜. Being a full-stack
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on Myself 😎
+- 👋 Hi, I'm Clarisse. Call me Riss
   
-
-- 🌱 I'm currently learning mobile development  
+- 🔭 I'm interested in Building Full stack apps 😎
   
-
+- 🌱 I'm currently learning Mobile Development with Flutter 🍭 
+  
+- 🤙 I'm an AI enthusiast
+  
+- 😎 I enjoy working on IoT based project. I'm a big fun
+  
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
-
 - ⚡ Fun fact: Busy living my life🤞
 
 </td><td valign="top" width="50%">
