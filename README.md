@@ -28,7 +28,7 @@ I’m a full-stack developer👩‍💻 & AI enthusiast 😜. Being a full-stack
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 👋 Hi, I'm Clarisse. Call me Riss
+- 👋 Hi, I'm Clarisse.
   
 - 🔭 I'm interested in Building Full stack apps 😎
   
