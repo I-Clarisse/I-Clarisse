@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Clarisse, Welcome to my Github!  
   
 
-<a href="https://github.com/I-Clarisse" target="_blank">
+<!-- <a href="https://github.com/I-Clarisse" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/" target="_blank">
@@ -9,7 +9,7 @@
 </a>
 <a href="https://www.instagram.com" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
+</a> -->
 <a href="https://www.linkedin.com/in/clarisse-iradukunda-537521207/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
