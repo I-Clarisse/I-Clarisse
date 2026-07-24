@@ -13,23 +13,9 @@
 <a href="https://www.linkedin.com/in/clarisse-iradukunda-537521207/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-<h1 align="center">Hi, I'm Clarisse 👋</h1>
-
-<p align="center">
-Computer Science Student @ The University of Texas at San Antonio <br>
- • Data Science & Cloud Computing
-</p>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/clarisse-iradukunda-537521207/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 <a href="mailto:YOUR_EMAIL">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-</p>
-
 ---
 
 ## 👩🏽‍💻 About Me
