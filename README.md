@@ -49,24 +49,31 @@ I'm particularly interested in **Civic Technology, Data Science, Data Engineerin
 
 ---
 
-## Languages & Tools
+## 🛠️ Languages & Technologies
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,sql"/>
-</p>
-
-### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,vue,angular,flutter,html,css,tailwind"/>
-</p>
-
-### Backend
+### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,nestjs"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,php,dart,sql"/>
 </p>
+
+---
+
+### Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vue,angular,flutter,html,css,tailwind,bootstrap,vite"/>
+</p>
+
+---
+
+### Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring"/>
+</p>
+
+---
 
 ### Databases
 
@@ -74,12 +81,75 @@ I'm particularly interested in **Civic Technology, Data Science, Data Engineerin
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
 </p>
 
+---
+
+### Machine Learning & Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Feature%20Engineering-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Forecasting-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Analysis-5C2D91?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+</p>
+
+---
+
 ### Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,linux,aws"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github"/>
 </p>
 
+---
+
+### APIs & Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=postman"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/>
+</p>
+
+---
+
+### Design
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,photoshop,xd"/>
+</p>
+
+---
+
+### Embedded Systems & IoT
+
+<p>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi"/>
+</p>
+
+---
+
+### Other Technologies
+
+<p>
+<img src="https://img.shields.io/badge/GTFS-0052CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PostgreSQL%20Extensions-336791?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-6A1B9A?style=for-the-badge"/>
+</p>
 ---
 
 ## Featured Projects
