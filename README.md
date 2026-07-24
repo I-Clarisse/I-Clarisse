@@ -13,48 +13,34 @@
 <a href="https://www.linkedin.com/in/clarisse-iradukunda-537521207/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-  
+<h1 align="center">Hi, I'm Clarisse 👋</h1>
 
+<p align="center">
+Computer Science Student @ The University of Texas at San Antonio <br>
+ • Data Science & Cloud Computing
+</p>
 
+<p align="center">
+<a href="https://www.linkedin.com/in/clarisse-iradukunda-537521207/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-### Glad to see you here!  
-I’m a full-stack developer👩‍💻 & AI enthusiast 😜. Being a full-stack developer allows me to create client-facing apps and websites as well as cutting-edge backend support✌️.
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
-🌴 DOIN' WHAT I DO BEST!
+---
 
-<br/>  
+## 👩🏽‍💻 About Me
 
+I'm a Computer Science student at the **University of Texas at San Antonio**, concentrating in **Data Science** and **Cloud Computing** through the Honors College.
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+I'm interested in building software, data, and AI systems that improve how governments, organizations, and communities solve real-world problems. My experiences span software engineering, machine learning, and data engineering, with projects ranging from digital government systems to predictive analytics and full-stack applications.
 
-- 👋 Hi, I'm Clarisse.
-  
-- 🔭 I'm interested in Building Full stack apps 😎
-  
-- 🌱 I'm currently learning Mobile Development with Flutter 🍭 
-  
-- 🤙 I'm an AI enthusiast
-  
-- 😎 I enjoy working on IoT based project. I'm a big fun
-  
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-- ⚡ Fun fact: Busy living my life🤞
+I'm currently an **AI Fellow with Break Through Tech**, where I'm strengthening my machine learning, data science, and professional collaboration skills through applied AI projects and industry-driven experiences.
 
-- 🏡 Loading......`House of IRA`
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
-
+I'm particularly interested in **Civic Technology, Data Science, Data Engineering, Machine Learning, Cloud Computing, and Software Engineering**, and I enjoy building technology that creates meaningful public impact.
 
 ## Languages and Tools  
 <div align="center">  
