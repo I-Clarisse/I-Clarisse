@@ -20,14 +20,13 @@
 
 ## 👩🏽‍💻 About Me
 
-I'm a Computer Science student at the **University of Texas at San Antonio**, concentrating in **Data Science** and **Cloud Computing** through the Honors College.
-
-I'm interested in building software, data, and AI systems that improve how governments, organizations, and communities solve real-world problems. My experiences span software engineering, machine learning, and data engineering, with projects ranging from digital government systems to predictive analytics and full-stack applications.
-
-I'm currently an **AI Fellow with Break Through Tech**, where I'm strengthening my machine learning, data science, and professional collaboration skills through applied AI projects and industry-driven experiences.
-
-I'm particularly interested in **Civic Technology, Data Science, Data Engineering, Machine Learning, Cloud Computing, and Software Engineering**, and I enjoy building technology that creates meaningful public impact.
-
+- 🎓 Computer Science student specializing in **Data Science** and **Cloud Computing**
+- 🤖 **AI Fellow** at **Break Through Tech AI**
+- 🌍 Interested in building software, data, and AI systems that create positive public impact
+- 📊 Passionate about **Civic Technology**, **Machine Learning**, **Data Engineering**, and **Cloud Computing**
+- 💡 Aspiring **Tech Entrepreneur** who enjoys turning ideas into products that solve real-world problems
+- 🚀 Always learning, building, and collaborating on projects that combine technology with community impact
+  
 ## Technical Interests
 
 - Civic Technology
