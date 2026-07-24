@@ -28,6 +28,81 @@ I'm currently an **AI Fellow with Break Through Tech**, where I'm strengthening 
 
 I'm particularly interested in **Civic Technology, Data Science, Data Engineering, Machine Learning, Cloud Computing, and Software Engineering**, and I enjoy building technology that creates meaningful public impact.
 
+## Technical Interests
+
+- Civic Technology
+- Data Science
+- Data Engineering
+- Machine Learning
+- Cloud Computing
+- Software Engineering
+- Public Interest Technology
+
+---
+
+## Current Focus
+
+- Building machine learning and data engineering projects
+- Exploring cloud technologies and scalable systems
+- Developing full-stack applications
+- Contributing to open-source and collaborative projects
+
+---
+
+## Languages & Tools
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,sql"/>
+</p>
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,vue,angular,flutter,html,css,tailwind"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,nestjs"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,linux,aws"/>
+</p>
+
+---
+
+## Featured Projects
+
+🚍 **VIA Ridership Forecasting**
+
+Machine learning models for forecasting public transportation demand using GTFS, ridership, and operational datasets.
+
+---
+
+🏛️ **Government Vehicle Management System**
+
+Digital workflow system developed for Rwanda's Ministry of Infrastructure to modernize government vehicle management.
+
+---
+
+🎁 **Ntamo Registry**
+
+Community gifting platform designed to simplify financial support and gift coordination.
+
+
+
+
 ## Languages and Tools  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
